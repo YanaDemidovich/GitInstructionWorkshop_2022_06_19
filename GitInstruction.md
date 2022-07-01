@@ -87,4 +87,6 @@ git log --graph - вывод истории комитов с визуализа
 
 ## Книги и полезные ссылки по изучению git.
 
+https://tproger.ru/translations/beginner-git-cheatsheet/
+
 ## Альтернативные системы контроля версий.
